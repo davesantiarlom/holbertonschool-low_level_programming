@@ -20,9 +20,9 @@ int main(void)
 			{
 				if ((i != f) != g)
 				{
-				      putchar(i);
-				      putchar(f);
-				      putchar(g);
+					putchar(i);
+					putchar(f);
+					putchar(g);
 
 					if (i == '7' && f == '8')
 						continue;
