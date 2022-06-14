@@ -12,15 +12,15 @@
 {
 	int i,f,g;
 	
-	for(i='0';i<'9';i++) {
-		
-		for(f=i+1;f<='9';f++) {
-			
-			for(g=f+1;g<='9';g++) {
-				
-				if ((i != f) != g){
-					
-					putchar(i);
+	for(i='0';i<'9';i++) 
+	{	
+		for(f=i+1;f<='9';f++) 
+		{			
+			for(g=f+1;g<='9';g++) 
+			{	
+				if ((i != f) != g)
+				{			
+				        putchar(i);
 					putchar(f);
 					putchar(g);
 
