@@ -10,7 +10,7 @@
 
  int main(void)
 {
-	int i,f,g;
+	int i, f, g;
 
 	for(i = '0'; i < '9'; i++)
 	{
