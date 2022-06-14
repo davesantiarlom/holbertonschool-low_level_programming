@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+/*
+ *TASK 4
+ */
 int main(void)
 {
 	char low, e, q;
