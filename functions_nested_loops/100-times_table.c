@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_times_table - prints times table for numbers from 0-14
+ * print_times_table - function that prints the n times table, starting with 0.
  * @n: An input integer value
- * Return: Nothing
+ * Return: nada
  */
 void print_times_table(int n)
 {
@@ -15,19 +15,19 @@ void print_times_table(int n)
 		{
 			_putchar('0');
 			for (j = 1; j <= n; j++)
-				putformat(i * j);
+				puttable(i * j);
 			_putchar('\n');
 		}
 	}
 }
 
 /**
- * putformat - formatted characters to output
+ * puttable - caracteres formateados a la salida
  * @n: number to format
- * Return: nothing
+ * Return: nada
  */
 
-void putformat(int n)
+void puttable(int n)
 {
 	if (n <= 9)
 	{
