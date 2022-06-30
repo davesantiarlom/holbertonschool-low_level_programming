@@ -3,7 +3,9 @@
 ## **Resources**
 ### Read or watch:
 [Recursion, introduction](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2021/1/2818ba6f14f644b871dcbd746925fa15b8cd5937.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220630T195227Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c70e409be0fcbc62a4958b8c966beb27c98ed8abd55543102d6f700711a93ebf).
+
 [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc).
+
 [C - Recursion](https://www.tutorialspoint.com/cprogramming/c_recursion.htm).
 
 ## **Learning Objectives**
