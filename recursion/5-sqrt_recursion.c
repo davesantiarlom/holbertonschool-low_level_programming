@@ -2,11 +2,11 @@
 
 /**
  * sqrt_loop - Finds natural square root, if it exists
- * @n: Variable holding potential natural square root
- * @m: Variable of original inputted value
+ * @b: Variable holding potential natural square root
+ * @a: Variable of original inputted value
  * Return: The natural square root, or -1 if one does not exist
  */
- 
+
 int sqrt_loop(int a, int b)
 {
 	if (b == a * a)
@@ -22,7 +22,7 @@ int sqrt_loop(int a, int b)
  * @n: an input integer
  * Return: The square root of n
  */
- 
+
 int _sqrt_recursion(int n)
 {
 	if (n < 0)
