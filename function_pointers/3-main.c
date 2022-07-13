@@ -13,6 +13,7 @@
 int main(int argc, char **argv)
 {
 	int (*pf)(int, int);
+
 	if (argc != 4)
 	{
 		printf("Error\n");
