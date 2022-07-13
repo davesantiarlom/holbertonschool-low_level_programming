@@ -47,11 +47,10 @@ int op_mul(int a, int b)
 int op_div(int a, int b)
 {
 	if (b != 0)
-    return (a / b);
+		return (a / b);
 	printf("Error\n");
 	exit(100);
 }
-
 /**
 * op_mod - Function that returns the remainder of two values
 * @a: First argument
