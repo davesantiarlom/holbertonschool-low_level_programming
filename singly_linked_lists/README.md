@@ -1,13 +1,14 @@
 # C - Singly linked lists
 
-Resources
-Read or watch:
+## Resources
+### Read or watch:
 
-Linked Lists
-Google
-Youtube
+ * [Linked Lists](https://www.youtube.com/watch?v=udapt4FGY20&feature=youtu.be&t=2m10s)
+ * [Google](https://www.google.com/#q=linked+lists)
+ * [Youtube](https://www.youtube.com/results?search_query=linked+lists)
 
-Learning Objectives
+**Learning Objectives**
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 **General**
