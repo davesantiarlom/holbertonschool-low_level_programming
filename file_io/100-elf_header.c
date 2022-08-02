@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - The entry point for program to get header of ELF file
- * @argc: The number of arguments
- * @argv: The pointer to array of arguments
- * Return: 1 on success, error code on failure
- */
+  * main - fills memory with a constant byte
+  * @argc: is the size of the pointer
+  * @argv: a index
+  * Return: a int
+  */
 
-int main(int argc, char *argv[])
+int main(int argc, char **argv)
 {
-	printf("argc:%d, argv:%p\n", argc, (void *)*argv);
-	return (1);
+	(void) argc;
+	(void) argv;
+	return (0);
 }
