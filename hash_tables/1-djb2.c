@@ -1,3 +1,11 @@
+#include "hash_tables.h"
+
+/**
+  * hash_djb2 - A function that passed the key to the hash table.
+  * @str: The key to set/get in the hash table.
+  * Return: The index in the has table.
+  */
+
 unsigned long int hash_djb2(const unsigned char *str)
 {
     unsigned long int hash;
